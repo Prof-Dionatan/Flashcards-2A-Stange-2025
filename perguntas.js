@@ -5,24 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    "Programação",
+    "Uma caracteristica dos elementos HTML",
+    "Classes"
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    "Futebol",
+    "Qual o maior idolo da seleção brasileira?",
+    "Pelé"
 )
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
-) 
 
 criaCartao(
-    'Português',
-    'Como se diz OI em português?',
-    'Oi em ingles é uma saudação'
-) 
+    "Música",
+    "Quantas notas musicais existem?",
+    "Sete: dó,ré, mi, fa, sol, lá, si."
+)
